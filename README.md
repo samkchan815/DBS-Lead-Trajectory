@@ -1,4 +1,4 @@
-# DBS-Lead-Trajectory
+# DBS Lead Trajectory
 
 This project performs image registration and atlas-based feature extraction for deep brain stimulation (DBS) lead trajectory analysis in individuals with Parkinson's disease. The pipeline registers patient postoperative imaging (CT and MRI) to MNI space, transforms a brain atlas into patient space, and identifies atlas-defined brain regions intersected by DBS lead trajectory segmentations. The brain region features are used for downstream statistical modeling of postoperative motor and cognitive outcomes.
 
